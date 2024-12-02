@@ -1,0 +1,2 @@
+# Undergraduate-Exchange-and-Training-Management-Platform
+基于Spring Boot和Vue的本科生交流培养管理平台旨在提升大学生的学术交流与个人发展。系统后端使用Spring Boot处理学生信息、交流活动和资源共享，前端采用Vue.js提供友好的用户体验。主要功能包括学术活动发布、交流心得分享、导师与学生互动及资源下载，促进师生之间、学生之间的有效沟通与协作。该平台为本科生提供了一个丰富的学习与成长环境，助力其全面发展与学术提升。
